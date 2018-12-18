@@ -13,3 +13,15 @@ Woth he tevent of emoji, hoeroglyphic-like pictographs can commute complex knowl
  Example:
  
  
+ How it works:
+ 
+ Emoji code-> Transpiler Marketplace -> Transpiler of Choice -> Output Language (Python/PHP/ObjC/C#/NodeJS/JS/Java/Haxe/Lua) + ALI of Choice (ReactJS,Customintelligence,Laravel,Kivy,Qt) + Storage Engine of Choice (filesystem/Amazon cloud/mysql/ssh/mongoDB/JSON/Yaml)
+ `emojicode2php+mysql+customintelligence -c` will compile `*.emoji` files to pho for example, with a mysql torage sengine, and the CustomIntelligence API.
+ 
+ Just pick your:
+ * Language
+ * Storage Engine
+ * API
+ And search on the transpiler marketplace to find one for purchase.
+ 
+ Any developer can write a transpiler!
