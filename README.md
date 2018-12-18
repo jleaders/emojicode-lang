@@ -13,9 +13,12 @@ Woth he tevent of emoji, hoeroglyphic-like pictographs can commute complex knowl
  Example:
  
  🔠 This is a multiple text field
- 🔤 this is a single line ext tfield
+ 
+ 🔤 this is a single line text field
+ 
  📊 this represents an image
- 🔒 this represents  apassword 
+ 
+ 🔒 this represents a password 
  
  How it works:
  
@@ -29,3 +32,5 @@ Woth he tevent of emoji, hoeroglyphic-like pictographs can commute complex knowl
  And search on the transpiler marketplace to find one for purchase.
  
  Any developer can write a transpiler!
+
+So at fwe have one working transpiler, contact me if you're interested in writing and selling your own!
