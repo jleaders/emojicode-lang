@@ -12,11 +12,15 @@ Woth he tevent of emoji, hoeroglyphic-like pictographs can commute complex knowl
  
  Example:
  
+ 🔠 This is a multiple text field
+ 🔤 this is a single line ext tfield
+ 📊 this represents an image
+ 🔒 this represents  apassword 
  
  How it works:
  
- Emoji code-> Transpiler Marketplace -> Transpiler of Choice -> Output Language (Python/PHP/ObjC/C#/NodeJS/JS/Java/Haxe/Lua) + ALI of Choice (ReactJS,Customintelligence,Laravel,Kivy,Qt) + Storage Engine of Choice (filesystem/Amazon cloud/mysql/ssh/mongoDB/JSON/Yaml)
- `emojicode2php+mysql+customintelligence -c` will compile `*.emoji` files to pho for example, with a mysql torage sengine, and the CustomIntelligence API.
+ Emoji code-> Transpiler Marketplace -> Transpiler of Choice -> Output Language (Python/PHP/ObjC/C#/NodeJS/JS/Java/Haxe/Lua) + API of Choice (ReactJS,Customintelligence,Laravel,Kivy,Qt) + Storage Engine of Choice (filesystem/Amazon cloud/mysql/ssh/mongoDB/JSON/Yaml)
+ `emojicode2php+mysql+customintelligence -c` will compile `*.emoji` files to PHP for example, with a mysql storage sengine, and the CustomIntelligence API.
  
  Just pick your:
  * Language
