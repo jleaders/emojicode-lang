@@ -29,8 +29,9 @@ With the advent of emoji, hieroglyphic-like pictographs can commute complex know
  * Language
  * Storage Engine
  * API
+ 
  And search on the transpiler marketplace to find one for purchase.
  
  Any developer can write a transpiler!
 
-So at fwe have one working transpiler, contact me if you're interested in writing and selling your own!
+So at the moment we have one working transpiler, contact me if you're interested in writing and selling your own!
