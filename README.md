@@ -7,7 +7,7 @@ The goal of emoji Code is such that the user would be able to determine what the
 
 EmojiCode sits in the space between the WYSIWYG editors of old, and modern markup languages.
 With the advent of emoji, hieroglyphic-like pictographs can commute complex knowledge in the space of a character, this solves two problems coming to languages:
- * **The Standards Problem**: What is an image? Is it a jpg, a png, a gif? Emoji code solves this by being so high level, it doesn't care. It assumes the user doesnt care either, so in a since it is a DSL (domain specific language) for the user. So this is an image 📊 and this is a video: 📺 and this is a document: 📄 and the VM will figure it out
+ * **The Standards Problem**: What is an image? Is it a jpg, a png, a gif? Emoji code solves this by being so high level, it doesn't care. It assumes the user doesnt care either, so in a sense it is a DSL (domain specific language) for the user. So this is an image 📊 and this is a video: 📺 and this is a document: 📄 and the VM will figure it out
  * **The Keyword problem**: is it for each, for, for in, for as, or what? Every languages uses multiple particles or spellings. Emoji code doesn't. Each emoji is the one nd aonly standard. You cannot mispell an emoji! Also emojis are international.
  
  Example:
