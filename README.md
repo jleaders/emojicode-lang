@@ -30,7 +30,7 @@ With the advent of emoji, hieroglyphic-like pictographs can commute complex know
  * Storage Engine
  * API
  
- [Uses Verb FullEnd framework](jonathanleaders.com/portfolio/verb)
+ [Uses Verb FullEnd framework](https://jonathanleaders.com/portfolio/verb)
  
  And search on the transpiler marketplace to find one for purchase.
  
