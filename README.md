@@ -24,6 +24,16 @@ Example JSON
     }  
 ```
 
+```yml
+employees:
+    - name: Jonny
+      salary: 56000
+      married: true
+    - name: Wilma
+      salary: 57000   
+      married: false 
+```
+
 Example EmojiCode
 ```
 👱️
