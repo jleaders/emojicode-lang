@@ -1,5 +1,38 @@
 # emojicode-lang
-Worlds First Userspace Language
+### _The storage & transmission file format of choice for Millenials_
+
+* Smaller than a json or yaml file, great for small transfers
+* Save on bytes
+* More fun
+* Great for texting your friends, as well as file storage
+
+## Example
+
+Example JSON
+```json
+    {  
+        "employee": {  
+            "name":       "Jonny",   
+            "salary":      56000,   
+            "married":    true  
+        }  
+    }  
+```
+
+Example EmojiCode
+```
+👱️
+   🆎️ Jonny
+   💲️ 56000
+   💑️ ✔️
+```
+
+
+Calling for help writing parsers in all languages
+
+
+# Example Applied Usage
+
 
 _Code Like I'm 5_
 
