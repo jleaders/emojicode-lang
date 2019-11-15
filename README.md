@@ -11,7 +11,7 @@
 Example JSON
 ```json
     {  
-        "employees": {  
+        "employees": [{  
             "name":       "Jonny",   
             "salary":      56000,   
             "married":    true  
@@ -20,7 +20,7 @@ Example JSON
             "name":       "Wilma",   
             "salary":      57000,   
             "married":    false  
-        }  
+        }]
     }  
 ```
 
