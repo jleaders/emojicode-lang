@@ -11,10 +11,15 @@
 Example JSON
 ```json
     {  
-        "employee": {  
+        "employees": {  
             "name":       "Jonny",   
             "salary":      56000,   
             "married":    true  
+        },
+        {  
+            "name":       "Wilma",   
+            "salary":      57000,   
+            "married":    false  
         }  
     }  
 ```
@@ -25,7 +30,12 @@ Example EmojiCode
    🆎️ Jonny
    💲️ 56000
    💑️ ✔️
+   
+   🆎️ Wilma
+   💲️ 5700
+   💑️ ✖️
 ```
+_(Reminder: On windows, you can type emoji's with Win+Period, and Ubuntu via right-click in Gedit)_
 
 
 Calling for help writing parsers in all languages
