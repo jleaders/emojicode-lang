@@ -1,5 +1,5 @@
 # emojicode-lang
-### _"The file format of choice for Millenials"_
+### _"The file format choice of Millenials"_
 
 * Less bytes than a json or yaml file
 * More fun
@@ -54,7 +54,7 @@ _(Reminder: On windows, you can type emoji's with Win+Period, and Ubuntu via rig
 
 # Why Emojis?
 
-_Code Like I'm 5_
+_EmojiCode is Code Explained Like I'm 5_
 
 The goal of emoji Code is such that the user would be able to determine what the code did and was for without having any prior technical or coding knowledge. Therefore the user could theoretically change the code to fit their needs.
 
