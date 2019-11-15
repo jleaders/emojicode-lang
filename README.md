@@ -1,5 +1,5 @@
 # emojicode-lang
-### _"The file format of choice for Millenials"
+### _"The file format of choice for Millenials"_
 
 * Less bytes than a json or yaml file
 * More fun
