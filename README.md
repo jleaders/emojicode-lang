@@ -1,12 +1,11 @@
 # emojicode-lang
-### _The storage & transmission file format of choice for Millenials_
+### _"The file format of choice for Millenials"
 
-* Smaller than a json or yaml file, great for small transfers
-* Save on bytes
+* Less bytes than a json or yaml file
 * More fun
-* Great for texting your friends, as well as file storage
+* Great for texting your friends
 
-## Example
+## Example for Storage / Transmission
 
 Example JSON
 ```json
